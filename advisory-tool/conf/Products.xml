@@ -1,0 +1,969 @@
+<Products>
+   <Product>
+      <codeName>EI</codeName>
+      <name>WSO2 Enterprise Integrator</name>
+      <versions>
+         <version>
+            <number>6.1.1</number>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.16</kernelVersion>
+            <releaseDate>04-05-2017</releaseDate>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <number>6.1.0</number>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.16</kernelVersion>
+            <releaseDate>10-04-2017</releaseDate>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+            <isPublicSupported>false</isPublicSupported>
+         </version>
+         <version>
+            <number>6.0.0</number>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.14</kernelVersion>
+            <releaseDate>20-02-2017</releaseDate>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+            <isPublicSupported>false</isPublicSupported>
+         </version>
+      </versions>
+   </Product>
+   <Product>
+      <codeName>MB</codeName>
+      <name>WSO2 Message Broker</name>
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.16</kernelVersion>
+            <releaseDate>24-04-2017</releaseDate>
+            <number>3.2.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>09-02-2016</releaseDate>
+            <number>3.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.2</kernelVersion>
+            <releaseDate>07-11-2015</releaseDate>
+            <number>3.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>23-05-2014</releaseDate>
+            <number>2.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>false</isPublicSupported>
+
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>GREG</codeName>
+      <name>WSO2 Governance Registry</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.14</kernelVersion>
+            <releaseDate>20-02-2017</releaseDate>
+            <number>5.4.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.7</kernelVersion>
+            <releaseDate>11-08-2016</releaseDate>
+            <number>5.3.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.5</kernelVersion>
+            <releaseDate>25-04-2016</releaseDate>
+            <number>5.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>31-10-2015</releaseDate>
+            <number>5.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>06-10-2015</releaseDate>
+            <number>5.0.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>07-09-2015</releaseDate>
+            <number>5.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>22-10-2013</releaseDate>
+            <number>4.6.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>AM</codeName>
+      <name>WSO2 API Manager</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.11</kernelVersion>
+            <releaseDate>06-02-2017</releaseDate>
+            <number>2.1.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.7</kernelVersion>
+            <releaseDate>29-07-2016</releaseDate>
+            <number>2.0.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>07-01-2016</releaseDate>
+            <number>1.10.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>31-08-2015</releaseDate>
+            <number>1.9.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>22-10-2013</releaseDate>
+            <number>1.5.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>21-12-2013</releaseDate>
+            <number>1.6.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>true</isPublicSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>18-06-2015</releaseDate>
+            <number>1.9.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>23-05-2014</releaseDate>
+            <number>1.7.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>16-12-2014</releaseDate>
+            <number>1.8.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>IOT</codeName>
+      <name>WSO2 IoT Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.11</kernelVersion>
+            <releaseDate>24-01-2017</releaseDate>
+            <number>3.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+            <isPublicSupported>false</isPublicSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>IS-KM</codeName>
+      <name>WSO2 IS as Key Manager</name>
+      <!--check-->
+      <versions>
+         <version>
+            <number>5.3.0</number>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.11</kernelVersion>
+            <releaseDate>11-01-2017</releaseDate>
+            <isWumSupported>true</isWumSupported>
+            <isDeprecated>true</isDeprecated>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+      </versions>
+   </Product>
+   <Product>
+      <codeName>IS</codeName>
+      <name>WSO2 Identity Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.11</kernelVersion>
+            <releaseDate>11-01-2017</releaseDate>
+            <number>5.3.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.9</kernelVersion>
+            <releaseDate>20-09-2016</releaseDate>
+            <number>5.2.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>23-12-2015</releaseDate>
+            <number>5.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>23-05-2014</releaseDate>
+            <number>5.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>21-12-2013</releaseDate>
+            <number>4.6.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>02-09-2013</releaseDate>
+            <number>4.5.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>EMM</codeName>
+      <name>WSO2 Enterprise Mobility Manager</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.10</kernelVersion>
+            <releaseDate>01-12-2016</releaseDate>
+            <number>2.2.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>15-03-2016</releaseDate>
+            <number>2.0.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>11-01-2016</releaseDate>
+            <number>2.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>11-06-2014</releaseDate>
+            <number>1.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>21-12-2013</releaseDate>
+            <number>1.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>DSS</codeName>
+      <name>WSO2 Data Services Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.9</kernelVersion>
+            <releaseDate>23-09-2016</releaseDate>
+            <number>3.5.1</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.2</kernelVersion>
+            <releaseDate>28-10-2015</releaseDate>
+            <number>3.5.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>02-12-2014</releaseDate>
+            <number>3.2.2</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>13-05-2014</releaseDate>
+            <number>3.2.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>17-04-2014</releaseDate>
+            <number>3.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>09-12-2013</releaseDate>
+            <number>3.1.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>02-09-2013</releaseDate>
+            <number>3.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>ML</codeName>
+      <name>WSO2 Machine Learner</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.9</kernelVersion>
+            <releaseDate>15-09-2016</releaseDate>
+            <number>1.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>23-12-2015</releaseDate>
+            <number>1.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>23-09-2015</releaseDate>
+            <number>1.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>CEP</codeName>
+      <name>WSO2 Complex Event Processor</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.9</kernelVersion>
+            <releaseDate>14-09-2016</releaseDate>
+            <number>4.2.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>26-02-2016</releaseDate>
+            <number>4.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>22-09-2015</releaseDate>
+            <number>4.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>17-04-2014</releaseDate>
+            <number>3.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <codeName>CEP</codeName>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>24-10-2013</releaseDate>
+            <number>3.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>DAS</codeName>
+      <name>WSO2 Data Analytics Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.9</kernelVersion>
+            <releaseDate>14-09-2016</releaseDate>
+            <number>3.1.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>19-01-2016</releaseDate>
+            <number>3.0.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.2</kernelVersion>
+            <releaseDate>28-10-2015</releaseDate>
+            <number>3.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>BPS</codeName>
+      <name>WSO2 Business Process Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.8</kernelVersion>
+            <releaseDate>31-08-2016</releaseDate>
+            <number>3.6.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.4</kernelVersion>
+            <releaseDate>04-03-2016</releaseDate>
+            <number>3.5.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>03-02-2014</releaseDate>
+            <number>3.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>05-10-2015</releaseDate>
+            <number>3.5.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>09-12-2013</releaseDate>
+            <number>3.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+   <Product>
+      <codeName>ESBB-Analytics</codeName>
+      <name>WSO2 Enterprise Service Bus Analytics</name>
+
+      <versions>
+      <version>
+         <platformVersion>4.4.0</platformVersion>
+         <kernelVersion>4.4.8</kernelVersion>
+         <releaseDate>20-08-2016</releaseDate>
+         <number>5.0.0</number>
+         <isWumSupported>true</isWumSupported>
+         <isPatchSupported>true</isPatchSupported>
+      </version>
+      </versions>
+   </Product>
+   <Product>
+      <codeName>ESB</codeName>
+      <name>WSO2 Enterprise Service Bus</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.8</kernelVersion>
+            <releaseDate>20-08-2016</releaseDate>
+            <number>5.0.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>10-09-2015</releaseDate>
+            <number>4.9.0</number>
+            <isWumSupported>true</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>03-02-2014</releaseDate>
+            <number>4.8.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>03-12-2013</releaseDate>
+            <number>4.8.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>ES</codeName>
+      <name>WSO2 Enterprise Store</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.7</kernelVersion>
+            <releaseDate>10-08-2016</releaseDate>
+            <number>2.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>14-09-2015</releaseDate>
+            <number>2.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>24-10-2013</releaseDate>
+            <number>1.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>APPM</codeName>
+      <name>WSO2 App Manager</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.7</kernelVersion>
+            <releaseDate>21-07-2016</releaseDate>
+            <number>1.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>23-12-2015</releaseDate>
+            <number>1.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>30-05-2015</releaseDate>
+            <number>1.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>DS</codeName>
+      <name>WSO2 Dashboard Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>29-02-2016</releaseDate>
+            <number>2.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>PPAAS</codeName>
+      <name>WSO2 Private PaaS</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>04-01-2016</releaseDate>
+            <number>4.1.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>27-10-2015</releaseDate>
+            <number>4.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>13-06-2014</releaseDate>
+            <number>4.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>BRS</codeName>
+      <name>WSO2 Business Rules Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.3</kernelVersion>
+            <releaseDate>23-12-2015</releaseDate>
+            <number>2.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>23-05-2014</releaseDate>
+            <number>2.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+
+      </versions>
+   </Product>
+
+   <Product>
+      <codeName>AS</codeName>
+      <name>WSO2 Application Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.4.0</platformVersion>
+            <kernelVersion>4.4.1</kernelVersion>
+            <releaseDate>17-09-2015</releaseDate>
+            <number>5.3.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>09-12-2013</releaseDate>
+            <number>5.2.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>02-09-2013</releaseDate>
+            <number>5.2.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>SS</codeName>
+      <name>WSO2 Storage Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.3.0</platformVersion>
+            <kernelVersion>4.3.0</kernelVersion>
+            <releaseDate>15-02-2015</releaseDate>
+            <number>1.5.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>21-12-2013</releaseDate>
+            <number>1.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>APPF</codeName>
+      <name>WSO2 App Factory</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>16-03-2015</releaseDate>
+            <number>2.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>11-06-2014</releaseDate>
+            <number>2.0.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>BAM</codeName>
+      <name>WSO2 Business Activity Monitor</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>16-12-2014</releaseDate>
+            <number>2.5.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>ELB</codeName>
+      <name>WSO2 Elastic Load Balancer</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>23-05-2014</releaseDate>
+            <number>2.1.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>22-10-2013</releaseDate>
+            <number>2.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>false</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>BAM</codeName>
+      <name>WSO2 Business Activity Monitor</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>05-05-2014</releaseDate>
+            <number>2.4.1</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>24-10-2013</releaseDate>
+            <number>2.4.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+   </Product>
+
+   <Product>
+      <codeName>TS</codeName>
+      <name>WSO2 Task Server</name>
+
+      <versions>
+         <version>
+            <platformVersion>4.2.0</platformVersion>
+            <kernelVersion>4.2.0</kernelVersion>
+            <releaseDate>17-04-2014</releaseDate>
+            <number>1.1.0</number>
+            <isWumSupported>false</isWumSupported>
+            <isPatchSupported>true</isPatchSupported>
+         </version>
+      </versions>
+
+
+   </Product>
+
+</Products>
