@@ -1,0 +1,38 @@
+#Scan Manager webapp configuration.
+
+clientId:
+clientSecret:
+
+accessTokenUri:
+
+scanManagerHost:
+scanManagerPort:
+
+startScanURI:
+stopScanURI:
+
+scansURI:
+
+staticScanners:
+ - name:
+   id:
+   fields:
+    - id:
+      displayName:
+      type:
+
+dynamicScanners:
+ - name:
+   id:
+   fields:
+    - id:
+      displayName:
+      type:
+
+dependencyScanners:
+ - name:
+   id:
+   fields:
+    - id:
+      displayName:
+      type:
