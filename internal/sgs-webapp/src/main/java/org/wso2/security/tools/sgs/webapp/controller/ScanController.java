@@ -100,6 +100,7 @@ public class ScanController {
     @PostMapping(value = "/scanConfiguration")
     public String upload(@ModelAttribute("scannerData") Scanner selectedScanner,
                          @RequestParam String scannerID) {
+
         Scanner scanner = scanService.getScanner(scannerID);
         selectedScanner.setId(scanner.getId());
         selectedScanner.setName(scanner.getName());
